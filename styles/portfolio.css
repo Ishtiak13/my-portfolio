@@ -195,6 +195,14 @@ main {
 .resume .first {
   border-bottom: 1px solid #7473736e;
 }
+.resume button {
+  display: flex;
+  gap: 10px;
+}
+.resume button img {
+  width: 24px; /* Adjust icon size */
+  height: 24px;
+}
 .single-card {
   width: 80%;
   height: 40%;
