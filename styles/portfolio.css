@@ -192,8 +192,9 @@ main {
   margin-bottom: 70px;
   /* justify-content: space-between; */
 }
-.resume .first {
-  border-bottom: 1px solid #7473736e;
+hr {
+  margin-right: 30px;
+  color: #fd6e0a;
 }
 .resume button {
   display: flex;
@@ -260,9 +261,11 @@ textarea {
   font-family: open sans;
   font-size: 16px;
 }
-.icons img {
+.icons i {
   margin-right: 24px;
   margin-top: 25px;
+  height: 24px;
+  width: 24px;
 }
 .btn:hover {
   background-color: #fd6f0ac4;
